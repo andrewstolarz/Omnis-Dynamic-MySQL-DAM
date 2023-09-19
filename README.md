@@ -19,3 +19,10 @@ and place them into the following locations into your Omnis .app. Note, if the l
 - xxx.app/Contents/lib/libssl.1.1.dylib 
 - xxx.app/Contents/Frameworks/libmysqlclient.21.dylib
 - xxx.app/Contents/Frameworks/libmysqlclient.dylib 
+
+
+
+Note: these dams have been tested with MySQL 8.0.15 to 8.0.28.
+
+
+The Windows Dams will be posted shortly.
